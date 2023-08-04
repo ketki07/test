@@ -1,2 +1,2 @@
 # test
-to test all git commands
+Created this repo to test all git commands
